@@ -3,7 +3,6 @@ DevelopIO
 Maria Jose Apolo
 Diego Gutierrez
 
-Link videos
 Parte 1.1 (Imagen a Imagen)
 https://youtu.be/qRN_x842mu8
 
